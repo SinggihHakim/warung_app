@@ -1,4 +1,4 @@
- APLIKASI KASIR WARUNG - README
+ APLIKASI KASIR WARUNG 
 ======================================
 
 Terima kasih telah menggunakan aplikasi ini. Dokumen ini akan membantu Anda memahami cara penggunaan dan kustomisasi dasar.
