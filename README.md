@@ -1,4 +1,4 @@
- APLIKASI KASIR WARUNG 
+ APLIKASI KASIR WARUNG FLUTTER
 ======================================
 
 Terima kasih telah menggunakan aplikasi ini. Dokumen ini akan membantu Anda memahami cara penggunaan dan kustomisasi dasar.
